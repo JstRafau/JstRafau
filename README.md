@@ -1,2 +1,1 @@
-# Check out my repos at <br />
-[codeberg.org](https://codeberg.org/JustRafau/)!
+# Check out my repos at [codeberg.org](https://codeberg.org/JustRafau/)!
